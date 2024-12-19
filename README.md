@@ -27,6 +27,8 @@ Add the directory to your Python project or use specific scripts as needed.
 
 ## Usage
 
+The toolbox is modular, allowing you to import specific functionalities as needed. For example:
+
 ```python
 from smart_learn_toolbox.datascience import get_cardinality
 from smart_learn_toolbox.vizdatatools import plot_categorical_relationship
