@@ -1,7 +1,7 @@
 
 # Smart Learn Toolbox
 
-**Smart Learn Toolbox** is a collection of functions and utilities designed to facilitate tasks in **Machine Learning**, **Data Science**, and **Deep Learning**. It includes a wide range of tools for preprocessing, modeling, visualization, and evaluation. 
+**Smart Learn Toolbox** is a collection of functions and utilities designed to facilitate tasks in **Data Science**, **Machine Learning**, and **Deep Learning**. It includes a wide range of tools for preprocessing, modeling, visualization, and evaluation. 
 
 ## Disclaimer [⚠️] 
 
